@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1025869206666",
+    "project_id": "dynamic-links-c75e6",
+    "storage_bucket": "dynamic-links-c75e6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025869206666:android:7b86116bb904aebcc2c973",
+        "android_client_info": {
+          "package_name": "com.svgproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEkJmak9nXkvlK0hDepH89kc60mgZgE5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
